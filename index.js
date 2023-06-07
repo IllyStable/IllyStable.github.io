@@ -5,6 +5,8 @@ const config = {
     scene: Example
 };
 
+console.log("Hello World!");
+
 const game = new Phaser.Game(config);
 
 class Example extends Phaser.Scene {
