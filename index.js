@@ -1,4 +1,4 @@
-import Phaser from "phaser";
+const Phaser = require("phaser");
 
 const config = {
     type: Phaser.AUTO,
